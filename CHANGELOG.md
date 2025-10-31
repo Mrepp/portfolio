@@ -1,8 +1,8 @@
 # Changelog
 
-### 2.0.0
+### 2.1.0 — 
 
-- Complete rewrite of the template using Astro and Tailwind
+Adapted the DevPortfolio template by Ryan Fitzgerald into Matthew Repp's personal developer portfolio.
 
 ### 1.2.2
 
