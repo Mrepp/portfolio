@@ -1,6 +1,6 @@
 # Matthew Repp — Portfolio
 
-### AI Trainer & Software Engineer
+## AI Trainer & Software Engineer
 
 **Live Portfolio:** [mrepp.github.io/portfolio](https://mrepp.github.io/portfolio)
 **LinkedIn:** [linkedin.com/in/matthew-repp-464666261](https://www.linkedin.com/in/matthew-repp-464666261/)
@@ -94,4 +94,3 @@ This portfolio is built with **Astro** and **Tailwind CSS**, adapted from the
 a minimalist, developer-focused design licensed under MIT.
 
 Grateful thanks to **[@RyanFitzgerald](https://github.com/RyanFitzgerald)** and contributors for making this open-source template available.
-
